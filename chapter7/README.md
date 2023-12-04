@@ -12,3 +12,10 @@ AWS Lambda with Python and SAM playlist-> https://www.youtube.com/watch?v=otqBDa
 ## Caas
 
 ECS and EKS fargate tutorial on AWS apprunner
+
+## MLOps on AWS
+
+EBS on AWS for flask app
+practised EBS on AWS
+
+## MLOPS Cookbook on AWS
