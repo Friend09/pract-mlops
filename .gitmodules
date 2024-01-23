@@ -1,3 +1,6 @@
 [submodule "chapter7/aws-lambda-noah"]
 	path = chapter7/aws-lambda-noah
 	url = https://github.com/Friend09/aws-lambda-noah.git
+[submodule "chapter7/python-for-devops-noah"]
+	path = chapter7/python-for-devops-noah
+	url = git@github.com:Friend09/python-for-devops-noah.git
